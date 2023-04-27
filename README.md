@@ -4,6 +4,7 @@ A collection of projects to showcase my relevant skills for data analytics.
 ## Projects
 
 ### SQL Data Cleaning Project
+This data cleaning project utilizes housing data from Nashiville, TN.
 Data cleaning skills utilized in this project include: 
 
 * Populating null values with existing data 
