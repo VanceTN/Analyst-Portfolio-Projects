@@ -1,5 +1,6 @@
 # Analyst Portfolio Projects
-A collection of projects to showcase my relevant skills for data analytics.
+A collection of projects to showcase my relevant skills for data analytics.  
+I am continuously working on projects will add more content as I complete them.
 
 ## Projects
 
